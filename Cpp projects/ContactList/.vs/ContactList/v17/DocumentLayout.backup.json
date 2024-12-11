@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Code\\Code\\Cpp projects\\ContactList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2FE9E0FE-D4C6-407D-ACE6-853172651F8D}|ContactList\\ContactList.vcxproj|C:\\Code\\Code\\Cpp projects\\ContactList\\ContactList\\ContactList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2FE9E0FE-D4C6-407D-ACE6-853172651F8D}|ContactList\\ContactList.vcxproj|solutionrelative:ContactList\\ContactList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2FE9E0FE-D4C6-407D-ACE6-853172651F8D}|ContactList\\ContactList.vcxproj|C:\\Code\\Code\\Cpp projects\\ContactList\\ContactList\\Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2FE9E0FE-D4C6-407D-ACE6-853172651F8D}|ContactList\\ContactList.vcxproj|solutionrelative:ContactList\\Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2FE9E0FE-D4C6-407D-ACE6-853172651F8D}|ContactList\\ContactList.vcxproj|C:\\Code\\Code\\Cpp projects\\ContactList\\ContactList\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2FE9E0FE-D4C6-407D-ACE6-853172651F8D}|ContactList\\ContactList.vcxproj|solutionrelative:ContactList\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2FE9E0FE-D4C6-407D-ACE6-853172651F8D}|ContactList\\ContactList.vcxproj|C:\\Code\\Code\\Cpp projects\\ContactList\\ContactList\\ContactList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2FE9E0FE-D4C6-407D-ACE6-853172651F8D}|ContactList\\ContactList.vcxproj|solutionrelative:ContactList\\ContactList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2FE9E0FE-D4C6-407D-ACE6-853172651F8D}|ContactList\\ContactList.vcxproj|C:\\Code\\Code\\Cpp projects\\ContactList\\ContactList\\ContactList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2FE9E0FE-D4C6-407D-ACE6-853172651F8D}|ContactList\\ContactList.vcxproj|solutionrelative:ContactList\\ContactList.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2FE9E0FE-D4C6-407D-ACE6-853172651F8D}|ContactList\\ContactList.vcxproj|C:\\Code\\Code\\Cpp projects\\ContactList\\ContactList\\Person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{2FE9E0FE-D4C6-407D-ACE6-853172651F8D}|ContactList\\ContactList.vcxproj|solutionrelative:ContactList\\Person.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2FE9E0FE-D4C6-407D-ACE6-853172651F8D}|ContactList\\ContactList.vcxproj|C:\\Code\\Code\\Cpp projects\\ContactList\\ContactList\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{2FE9E0FE-D4C6-407D-ACE6-853172651F8D}|ContactList\\ContactList.vcxproj|solutionrelative:ContactList\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{2FE9E0FE-D4C6-407D-ACE6-853172651F8D}|ContactList\\ContactList.vcxproj|C:\\Code\\Code\\Cpp projects\\ContactList\\ContactList\\Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2FE9E0FE-D4C6-407D-ACE6-853172651F8D}|ContactList\\ContactList.vcxproj|solutionrelative:ContactList\\Person.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,43 +30,51 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ContactList.h",
               "DocumentMoniker": "C:\\Code\\Code\\Cpp projects\\ContactList\\ContactList\\ContactList.h",
               "RelativeDocumentMoniker": "ContactList\\ContactList.h",
               "ToolTip": "C:\\Code\\Code\\Cpp projects\\ContactList\\ContactList\\ContactList.h",
               "RelativeToolTip": "ContactList\\ContactList.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-27T08:15:08.657Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "ContactList.cpp",
               "DocumentMoniker": "C:\\Code\\Code\\Cpp projects\\ContactList\\ContactList\\ContactList.cpp",
               "RelativeDocumentMoniker": "ContactList\\ContactList.cpp",
               "ToolTip": "C:\\Code\\Code\\Cpp projects\\ContactList\\ContactList\\ContactList.cpp",
               "RelativeToolTip": "ContactList\\ContactList.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-27T08:15:34.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Code\\Code\\Cpp projects\\ContactList\\ContactList\\main.cpp",
               "RelativeDocumentMoniker": "ContactList\\main.cpp",
               "ToolTip": "C:\\Code\\Code\\Cpp projects\\ContactList\\ContactList\\main.cpp",
               "RelativeToolTip": "ContactList\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAA4AAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAmwCYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-27T08:15:45.443Z",
               "EditorCaption": ""
@@ -79,20 +87,20 @@
               "RelativeDocumentMoniker": "ContactList\\Person.cpp",
               "ToolTip": "C:\\Code\\Code\\Cpp projects\\ContactList\\ContactList\\Person.cpp",
               "RelativeToolTip": "ContactList\\Person.cpp",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAABwAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-27T08:15:20.26Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Person.h",
               "DocumentMoniker": "C:\\Code\\Code\\Cpp projects\\ContactList\\ContactList\\Person.h",
               "RelativeDocumentMoniker": "ContactList\\Person.h",
               "ToolTip": "C:\\Code\\Code\\Cpp projects\\ContactList\\ContactList\\Person.h",
               "RelativeToolTip": "ContactList\\Person.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-27T08:14:50.117Z",
               "EditorCaption": ""
