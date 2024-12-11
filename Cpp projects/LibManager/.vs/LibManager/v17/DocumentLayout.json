@@ -3,8 +3,76 @@
   "WorkspaceRootPath": "C:\\Code\\Code\\Cpp projects\\LibManager\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F8D978F6-7D42-4905-9252-E4032E1FD41C}|LibManager\\LibManager.vcxproj|C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\Book.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F8D978F6-7D42-4905-9252-E4032E1FD41C}|LibManager\\LibManager.vcxproj|solutionrelative:LibManager\\Book.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D978F6-7D42-4905-9252-E4032E1FD41C}|LibManager\\LibManager.vcxproj|C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\FacultyMember.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F8D978F6-7D42-4905-9252-E4032E1FD41C}|LibManager\\LibManager.vcxproj|solutionrelative:LibManager\\FacultyMember.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D978F6-7D42-4905-9252-E4032E1FD41C}|LibManager\\LibManager.vcxproj|C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\GuestMember.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F8D978F6-7D42-4905-9252-E4032E1FD41C}|LibManager\\LibManager.vcxproj|solutionrelative:LibManager\\GuestMember.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D978F6-7D42-4905-9252-E4032E1FD41C}|LibManager\\LibManager.vcxproj|C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\Imember.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F8D978F6-7D42-4905-9252-E4032E1FD41C}|LibManager\\LibManager.vcxproj|solutionrelative:LibManager\\Imember.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D978F6-7D42-4905-9252-E4032E1FD41C}|LibManager\\LibManager.vcxproj|C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\LibraryItem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F8D978F6-7D42-4905-9252-E4032E1FD41C}|LibManager\\LibManager.vcxproj|solutionrelative:LibManager\\LibraryItem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D978F6-7D42-4905-9252-E4032E1FD41C}|LibManager\\LibManager.vcxproj|C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\LibraryManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F8D978F6-7D42-4905-9252-E4032E1FD41C}|LibManager\\LibManager.vcxproj|solutionrelative:LibManager\\LibraryManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D978F6-7D42-4905-9252-E4032E1FD41C}|LibManager\\LibManager.vcxproj|C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\Magazine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F8D978F6-7D42-4905-9252-E4032E1FD41C}|LibManager\\LibManager.vcxproj|solutionrelative:LibManager\\Magazine.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D978F6-7D42-4905-9252-E4032E1FD41C}|LibManager\\LibManager.vcxproj|C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\Member.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F8D978F6-7D42-4905-9252-E4032E1FD41C}|LibManager\\LibManager.vcxproj|solutionrelative:LibManager\\Member.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D978F6-7D42-4905-9252-E4032E1FD41C}|LibManager\\LibManager.vcxproj|C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\StudentMember.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F8D978F6-7D42-4905-9252-E4032E1FD41C}|LibManager\\LibManager.vcxproj|solutionrelative:LibManager\\StudentMember.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D978F6-7D42-4905-9252-E4032E1FD41C}|LibManager\\LibManager.vcxproj|C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\Book.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F8D978F6-7D42-4905-9252-E4032E1FD41C}|LibManager\\LibManager.vcxproj|solutionrelative:LibManager\\Book.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D978F6-7D42-4905-9252-E4032E1FD41C}|LibManager\\LibManager.vcxproj|C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\FacultyMember.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F8D978F6-7D42-4905-9252-E4032E1FD41C}|LibManager\\LibManager.vcxproj|solutionrelative:LibManager\\FacultyMember.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D978F6-7D42-4905-9252-E4032E1FD41C}|LibManager\\LibManager.vcxproj|C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\GuesMember.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F8D978F6-7D42-4905-9252-E4032E1FD41C}|LibManager\\LibManager.vcxproj|solutionrelative:LibManager\\GuesMember.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D978F6-7D42-4905-9252-E4032E1FD41C}|LibManager\\LibManager.vcxproj|C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F8D978F6-7D42-4905-9252-E4032E1FD41C}|LibManager\\LibManager.vcxproj|solutionrelative:LibManager\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D978F6-7D42-4905-9252-E4032E1FD41C}|LibManager\\LibManager.vcxproj|C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\StudentMember.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F8D978F6-7D42-4905-9252-E4032E1FD41C}|LibManager\\LibManager.vcxproj|solutionrelative:LibManager\\StudentMember.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D978F6-7D42-4905-9252-E4032E1FD41C}|LibManager\\LibManager.vcxproj|C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\Magazine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F8D978F6-7D42-4905-9252-E4032E1FD41C}|LibManager\\LibManager.vcxproj|solutionrelative:LibManager\\Magazine.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D978F6-7D42-4905-9252-E4032E1FD41C}|LibManager\\LibManager.vcxproj|C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\LibraryItem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F8D978F6-7D42-4905-9252-E4032E1FD41C}|LibManager\\LibManager.vcxproj|solutionrelative:LibManager\\LibraryItem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F8D978F6-7D42-4905-9252-E4032E1FD41C}|LibManager\\LibManager.vcxproj|C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\LibManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{F8D978F6-7D42-4905-9252-E4032E1FD41C}|LibManager\\LibManager.vcxproj|solutionrelative:LibManager\\LibManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8D978F6-7D42-4905-9252-E4032E1FD41C}|LibManager\\LibManager.vcxproj|C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\Member.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F8D978F6-7D42-4905-9252-E4032E1FD41C}|LibManager\\LibManager.vcxproj|solutionrelative:LibManager\\Member.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,15 +94,236 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Member.h",
+              "DocumentMoniker": "C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\Member.h",
+              "RelativeDocumentMoniker": "LibManager\\Member.h",
+              "ToolTip": "C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\Member.h",
+              "RelativeToolTip": "LibManager\\Member.h",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-11T22:02:12.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Magazine.h",
+              "DocumentMoniker": "C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\Magazine.h",
+              "RelativeDocumentMoniker": "LibManager\\Magazine.h",
+              "ToolTip": "C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\Magazine.h",
+              "RelativeToolTip": "LibManager\\Magazine.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-11T22:01:34.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LibraryManager.h",
+              "DocumentMoniker": "C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\LibraryManager.h",
+              "RelativeDocumentMoniker": "LibManager\\LibraryManager.h",
+              "ToolTip": "C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\LibraryManager.h",
+              "RelativeToolTip": "LibManager\\LibraryManager.h",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwBoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-11T22:03:42.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibraryItem.h",
+              "DocumentMoniker": "C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\LibraryItem.h",
+              "RelativeDocumentMoniker": "LibManager\\LibraryItem.h",
+              "ToolTip": "C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\LibraryItem.h",
+              "RelativeToolTip": "LibManager\\LibraryItem.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-11T22:01:02.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMember.h",
+              "DocumentMoniker": "C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\IMember.h",
+              "RelativeDocumentMoniker": "LibManager\\IMember.h",
+              "ToolTip": "C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\IMember.h",
+              "RelativeToolTip": "LibManager\\IMember.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-11T22:01:44.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GuestMember.h",
+              "DocumentMoniker": "C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\GuestMember.h",
+              "RelativeDocumentMoniker": "LibManager\\GuestMember.h",
+              "ToolTip": "C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\GuestMember.h",
+              "RelativeToolTip": "LibManager\\GuestMember.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-11T22:03:15.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FacultyMember.h",
+              "DocumentMoniker": "C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\FacultyMember.h",
+              "RelativeDocumentMoniker": "LibManager\\FacultyMember.h",
+              "ToolTip": "C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\FacultyMember.h",
+              "RelativeToolTip": "LibManager\\FacultyMember.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-11T22:02:36.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Book.h",
+              "DocumentMoniker": "C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\Book.h",
+              "RelativeDocumentMoniker": "LibManager\\Book.h",
+              "ToolTip": "C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\Book.h",
+              "RelativeToolTip": "LibManager\\Book.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-11T22:01:09.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentMember.h",
+              "DocumentMoniker": "C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\StudentMember.h",
+              "RelativeDocumentMoniker": "LibManager\\StudentMember.h",
+              "ToolTip": "C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\StudentMember.h",
+              "RelativeToolTip": "LibManager\\StudentMember.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-11T22:02:56.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Book.cpp",
+              "DocumentMoniker": "C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\Book.cpp",
+              "RelativeDocumentMoniker": "LibManager\\Book.cpp",
+              "ToolTip": "C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\Book.cpp",
+              "RelativeToolTip": "LibManager\\Book.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-11T22:10:30.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FacultyMember.cpp",
+              "DocumentMoniker": "C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\FacultyMember.cpp",
+              "RelativeDocumentMoniker": "LibManager\\FacultyMember.cpp",
+              "ToolTip": "C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\FacultyMember.cpp",
+              "RelativeToolTip": "LibManager\\FacultyMember.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-11T22:14:32.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GuesMember.cpp",
+              "DocumentMoniker": "C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\GuesMember.cpp",
+              "RelativeDocumentMoniker": "LibManager\\GuesMember.cpp",
+              "ToolTip": "C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\GuesMember.cpp",
+              "RelativeToolTip": "LibManager\\GuesMember.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-11T22:15:44.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\main.cpp",
+              "RelativeDocumentMoniker": "LibManager\\main.cpp",
+              "ToolTip": "C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\main.cpp",
+              "RelativeToolTip": "LibManager\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-11T22:17:38.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentMember.cpp",
+              "DocumentMoniker": "C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\StudentMember.cpp",
+              "RelativeDocumentMoniker": "LibManager\\StudentMember.cpp",
+              "ToolTip": "C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\StudentMember.cpp",
+              "RelativeToolTip": "LibManager\\StudentMember.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-11T22:15:00.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Magazine.cpp",
+              "DocumentMoniker": "C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\Magazine.cpp",
+              "RelativeDocumentMoniker": "LibManager\\Magazine.cpp",
+              "ToolTip": "C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\Magazine.cpp",
+              "RelativeToolTip": "LibManager\\Magazine.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-11T22:10:56.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LibraryItem.cpp",
+              "DocumentMoniker": "C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\LibraryItem.cpp",
+              "RelativeDocumentMoniker": "LibManager\\LibraryItem.cpp",
+              "ToolTip": "C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\LibraryItem.cpp",
+              "RelativeToolTip": "LibManager\\LibraryItem.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-11T22:09:29.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "LibManager.cpp",
               "DocumentMoniker": "C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\LibManager.cpp",
               "RelativeDocumentMoniker": "LibManager\\LibManager.cpp",
               "ToolTip": "C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\LibManager.cpp",
               "RelativeToolTip": "LibManager\\LibManager.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAoAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-11T21:41:13.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Member.cpp",
+              "DocumentMoniker": "C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\Member.cpp",
+              "RelativeDocumentMoniker": "LibManager\\Member.cpp",
+              "ToolTip": "C:\\Code\\Code\\Cpp projects\\LibManager\\LibManager\\Member.cpp",
+              "RelativeToolTip": "LibManager\\Member.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-11T22:11:52.734Z",
               "EditorCaption": ""
             }
           ]

@@ -127,7 +127,26 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Book.cpp" />
+    <ClCompile Include="FacultyMember.cpp" />
+    <ClCompile Include="GuesMember.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Member.cpp" />
     <ClCompile Include="LibManager.cpp" />
+    <ClCompile Include="LibraryItem.cpp" />
+    <ClCompile Include="Magazine.cpp" />
+    <ClCompile Include="StudentMember.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Book.h" />
+    <ClInclude Include="FacultyMember.h" />
+    <ClInclude Include="GuestMember.h" />
+    <ClInclude Include="IMember.h" />
+    <ClInclude Include="LibraryItem.h" />
+    <ClInclude Include="LibraryManager.h" />
+    <ClInclude Include="Magazine.h" />
+    <ClInclude Include="Member.h" />
+    <ClInclude Include="StudentMember.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
